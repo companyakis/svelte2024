@@ -11,7 +11,7 @@
 </script>
 
 <main>
-  <h5>Mustafa Buyukdereli created this counter:)</h5>
+  <h5>Mustafa Buyukdereli created this counter...</h5>
 
   <button on:click={counterUp}>Counter ++</button>
 
@@ -23,3 +23,4 @@
 <style>
 
 </style>
+
