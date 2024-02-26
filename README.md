@@ -1,2 +1,3 @@
-# svelte2024
-Svelte JS Frontend 
+# Svelte JS Frontend 
+
+Coming soon:)
